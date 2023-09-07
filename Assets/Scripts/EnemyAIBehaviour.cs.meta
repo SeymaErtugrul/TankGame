@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1bf7511c4edd4146972d82434891c89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - agent: {instanceID: 0}
+  - player: {instanceID: 0}
+  - spawnerPoint: {instanceID: 0}
+  - raycastObject: {instanceID: 0}
+  - bullet: {fileID: 8126209706282005018, guid: bd9b6cdb44c06514085b5af369a795da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
